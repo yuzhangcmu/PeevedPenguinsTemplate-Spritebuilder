@@ -139,8 +139,6 @@
 					</array>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -758,7 +756,7 @@
 							<key>density</key>
 							<real>1</real>
 							<key>dynamic</key>
-							<false/>
+							<true/>
 							<key>elasticity</key>
 							<real>0.30000001192092896</real>
 							<key>friction</key>
@@ -770,12 +768,12 @@
 									<real>0.0</real>
 								</array>
 								<array>
-									<real>-0.39090025424957275</real>
-									<real>45.215957641601562</real>
+									<real>2.1403505802154541</real>
+									<real>41.942207336425781</real>
 								</array>
 								<array>
-									<real>958.6494140625</real>
-									<real>46.943958282470703</real>
+									<real>962.15264892578125</real>
+									<real>42.387706756591797</real>
 								</array>
 								<array>
 									<real>960</real>
@@ -790,12 +788,12 @@
 										<real>0.0</real>
 									</array>
 									<array>
-										<real>958.6494140625</real>
-										<real>46.943958282470703</real>
+										<real>962.15264892578125</real>
+										<real>42.387706756591797</real>
 									</array>
 									<array>
-										<real>-0.39090025424957275</real>
-										<real>45.215957641601562</real>
+										<real>2.1403505802154541</real>
+										<real>41.942207336425781</real>
 									</array>
 									<array>
 										<real>0.0</real>
@@ -896,6 +894,8 @@
 								<array/>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
