@@ -54,6 +54,10 @@
     
     [self setupCocos2dWithOptions:cocos2dSetup];
     
+    // Test the load of Penguin and seal objects.
+    [CCBReader load:@"Penguin"];
+    [CCBReader load:@"Seal"];
+    
     return YES;
 }
 
