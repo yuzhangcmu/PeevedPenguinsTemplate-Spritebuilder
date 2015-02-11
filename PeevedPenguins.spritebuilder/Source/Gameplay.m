@@ -112,6 +112,9 @@
     _mouseJointNode.physicsBody.collisionMask = @[];
     
     _physicsNode.collisionDelegate = self;
+    
+    self.physicsBody.collisionType = @"seal";
+
 }
 
 - (void)retry {
