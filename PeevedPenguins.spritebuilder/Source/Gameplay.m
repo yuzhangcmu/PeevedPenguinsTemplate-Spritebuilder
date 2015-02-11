@@ -35,7 +35,10 @@
     _mouseJointNode.physicsBody.collisionMask = @[];
 }
 
-
+- (void)retry {
+    // reload this level
+    [[CCDirector sharedDirector] replaceScene: [CCBReader loadAsScene:@"Gameplay"]];
+}
 
 
 - (void)launchPenguin {
