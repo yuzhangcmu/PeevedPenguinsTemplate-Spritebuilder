@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -912,7 +912,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>Seal</string>
 				<key>displayName</key>
 				<string>seal</string>
 				<key>memberVarAssignmentName</key>
@@ -1045,8 +1045,6 @@
 						<array/>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1056,7 +1054,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>Seal</string>
 				<key>displayName</key>
 				<string>seal</string>
 				<key>memberVarAssignmentName</key>
@@ -1371,7 +1369,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>Seal</string>
 				<key>displayName</key>
 				<string>seal</string>
 				<key>memberVarAssignmentName</key>
@@ -1504,6 +1502,8 @@
 						<array/>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
