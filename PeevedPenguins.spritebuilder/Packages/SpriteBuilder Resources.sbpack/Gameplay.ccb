@@ -55,7 +55,7 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>226.11199951171875</real>
+						<real>218.93600463867188</real>
 						<real>110.53497314453125</real>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -139,8 +139,6 @@
 					</array>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 		<dict>
 			<key>UUID</key>
@@ -443,40 +441,40 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>2.8239274024963379</real>
-											<real>30.004674911499023</real>
+											<real>-4.4000821113586426</real>
+											<real>28.80467414855957</real>
 										</array>
 										<array>
-											<real>-1.8320770263671875</real>
-											<real>175.68678283691406</real>
+											<real>-6.8000826835632324</real>
+											<real>175.20472717285156</real>
 										</array>
 										<array>
 											<real>42</real>
 											<real>177</real>
 										</array>
 										<array>
-											<real>16.023931503295898</real>
-											<real>31.204675674438477</real>
+											<real>19.599925994873047</real>
+											<real>28.80467414855957</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>16.023931503295898</real>
-												<real>31.204675674438477</real>
+												<real>19.599925994873047</real>
+												<real>28.80467414855957</real>
 											</array>
 											<array>
 												<real>42</real>
 												<real>177</real>
 											</array>
 											<array>
-												<real>-1.8320770263671875</real>
-												<real>175.68678283691406</real>
+												<real>-6.8000826835632324</real>
+												<real>175.20472717285156</real>
 											</array>
 											<array>
-												<real>2.8239274024963379</real>
-												<real>30.004674911499023</real>
+												<real>-4.4000821113586426</real>
+												<real>28.80467414855957</real>
 											</array>
 										</array>
 									</array>
@@ -498,7 +496,7 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>240.17599487304688</real>
+											<real>233</real>
 											<real>196.5</real>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -628,8 +626,12 @@
 											<real>68.879974365234375</real>
 										</array>
 										<array>
-											<real>140.22117614746094</real>
-											<real>68.879974365234375</real>
+											<real>100.81993103027344</real>
+											<real>74.404670715332031</real>
+										</array>
+										<array>
+											<real>145.21994018554688</real>
+											<real>63.604663848876953</real>
 										</array>
 										<array>
 											<real>219.35220336914062</real>
@@ -652,8 +654,12 @@
 												<real>39.872444152832031</real>
 											</array>
 											<array>
-												<real>140.22117614746094</real>
-												<real>68.879974365234375</real>
+												<real>145.21994018554688</real>
+												<real>63.604663848876953</real>
+											</array>
+											<array>
+												<real>100.81993103027344</real>
+												<real>74.404670715332031</real>
 											</array>
 											<array>
 												<real>60.733158111572266</real>
@@ -1268,6 +1274,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1944,9 +1952,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.0</real>
+			<real>1.3010416030883789</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>3.5666666030883789</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
