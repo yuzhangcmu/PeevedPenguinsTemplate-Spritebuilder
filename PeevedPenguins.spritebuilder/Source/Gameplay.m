@@ -113,7 +113,6 @@
     
     _physicsNode.collisionDelegate = self;
     
-    self.physicsBody.collisionType = @"seal";
 
 }
 
