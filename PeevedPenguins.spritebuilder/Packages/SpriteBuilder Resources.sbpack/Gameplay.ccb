@@ -1186,16 +1186,16 @@
 											<real>32</real>
 										</array>
 										<array>
-											<real>32</real>
-											<real>0.0</real>
+											<real>27.547332763671875</real>
+											<real>-2.6353142261505127</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>32</real>
-												<real>0.0</real>
+												<real>27.547332763671875</real>
+												<real>-2.6353142261505127</real>
 											</array>
 											<array>
 												<real>32</real>
@@ -1229,8 +1229,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>205.24790954589844</real>
-											<real>231.84001159667969</real>
+											<real>158.44789123535156</real>
+											<real>235.44001770019531</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1274,8 +1274,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1338,6 +1336,8 @@
 										<string>Bear.ccb</string>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
