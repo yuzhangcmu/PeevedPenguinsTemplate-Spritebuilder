@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>218.93600463867188</real>
-						<real>110.53497314453125</real>
+						<real>237.95285034179688</real>
+						<real>108.57084655761719</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -496,8 +496,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>233</real>
-											<real>196.5</real>
+											<real>246.20001220703125</real>
+											<real>195.28742980957031</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -526,6 +526,14 @@
 											<false/>
 											<integer>0</integer>
 										</array>
+									</dict>
+									<dict>
+										<key>name</key>
+										<string>rotation</string>
+										<key>type</key>
+										<string>Degrees</string>
+										<key>value</key>
+										<real>-3.8585925102233887</real>
 									</dict>
 									<dict>
 										<key>name</key>
@@ -693,7 +701,7 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>250.27999877929688</real>
+											<real>265.9478759765625</real>
 											<real>88</real>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -768,6 +776,8 @@
 										<array/>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1336,8 +1346,6 @@
 										<string>Bear.ccb</string>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
@@ -1954,7 +1962,7 @@
 			<key>offset</key>
 			<real>1.3010416030883789</real>
 			<key>position</key>
-			<real>3.5666666030883789</real>
+			<real>0.0</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
