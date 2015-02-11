@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>275.7989501953125</real>
-						<real>105.78372192382812</real>
+						<real>224.05490112304688</real>
+						<real>94.25970458984375</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -93,8 +93,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>12.054895401000977</real>
-						<real>-12.012298583984375</real>
+						<real>5.1428985595703125</real>
+						<real>-13.74029541015625</real>
 					</array>
 				</dict>
 				<dict>
@@ -504,8 +504,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>295.37603759765625</real>
-											<real>85.620025634765625</real>
+											<real>253.90402221679688</real>
+											<real>80.436027526855469</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -719,8 +719,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>284.74404907226562</real>
-											<real>206.2960205078125</real>
+											<real>239.91200256347656</real>
+											<real>196.5</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1045,6 +1045,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1157,8 +1159,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1335,8 +1335,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>108.13433837890625</real>
-											<real>85.996780395507812</real>
+											<real>78</real>
+											<real>88</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
