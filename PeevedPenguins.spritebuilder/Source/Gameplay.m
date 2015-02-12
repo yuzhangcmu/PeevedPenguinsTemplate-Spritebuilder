@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 #import "Gameplay.h"
 
+#import "Penguin.h"
+
 #import "CCPhysics+ObjectiveChipmunk.h"
 
 static const float MIN_SPEED = 5.f;
@@ -25,7 +27,7 @@ static const float MIN_SPEED = 5.f;
     
     CCNode *_contentNode;
     
-    CCNode *_currentPenguin;
+    Penguin *_currentPenguin;
     CCPhysicsJoint *_penguinCatapultJoint;
     
     CCAction *_followPenguin;
@@ -35,6 +37,10 @@ static const float MIN_SPEED = 5.f;
 
 - (void)update:(CCTime)delta
 {
+    if (!_currentPenguin.launched) {
+        return;
+    }
+    
     // if speed is below minimum speed, assume this attempt is over
     if (ccpLength(_currentPenguin.physicsBody.velocity) < MIN_SPEED){
         [self nextAttempt];
@@ -70,7 +76,8 @@ static const float MIN_SPEED = 5.f;
 
         
         // create a penguin from the ccb-file
-        _currentPenguin = [CCBReader load:@"Penguin"];
+        _currentPenguin = (Penguin*)[CCBReader load:@"Penguin"];
+        
         // initially position it on the scoop. 34,138 is the position in the node space of the _catapultArm
         CGPoint penguinPosition = [_catapultArm convertToWorldSpace:ccp(34, 138)];
         // transform the world position to the node space to which the penguin will be added (_physicsNode)
@@ -102,6 +109,8 @@ static const float MIN_SPEED = 5.f;
         // follow the flying penguin
         _followPenguin = [CCActionFollow actionWithTarget:_currentPenguin worldBoundary:self.boundingBox];
         [_contentNode runAction:_followPenguin];
+        
+        _currentPenguin.launched = TRUE;
     }
 }
 
