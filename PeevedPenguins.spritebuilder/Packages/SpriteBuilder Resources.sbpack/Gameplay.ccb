@@ -820,8 +820,6 @@
 										<array/>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -869,8 +867,40 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>61</real>
+											<real>0.64844512939453125</real>
+											<real>47.796882629394531</real>
+										</array>
+										<array>
+											<real>79.6484375</real>
+											<real>48.796882629394531</real>
+										</array>
+										<array>
+											<real>602.6484375</real>
+											<real>49.796882629394531</real>
+										</array>
+										<array>
+											<real>645.6484375</real>
+											<real>50.796882629394531</real>
+										</array>
+										<array>
+											<real>658.6484375</real>
+											<real>56.796867370605469</real>
+										</array>
+										<array>
+											<real>685.6484375</real>
+											<real>51.796882629394531</real>
+										</array>
+										<array>
+											<real>703.6484375</real>
+											<real>56.796867370605469</real>
+										</array>
+										<array>
+											<real>803.2890625</real>
+											<real>48.574211120605469</real>
+										</array>
+										<array>
+											<real>895.6484375</real>
+											<real>48.796882629394531</real>
 										</array>
 										<array>
 											<real>960</real>
@@ -893,11 +923,93 @@
 												<real>61</real>
 											</array>
 											<array>
+												<real>895.6484375</real>
+												<real>48.796882629394531</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>960</real>
 												<real>0.0</real>
-												<real>61</real>
+											</array>
+											<array>
+												<real>895.6484375</real>
+												<real>48.796882629394531</real>
+											</array>
+											<array>
+												<real>803.2890625</real>
+												<real>48.574211120605469</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>960</real>
+												<real>0.0</real>
+											</array>
+											<array>
+												<real>803.2890625</real>
+												<real>48.574211120605469</real>
+											</array>
+											<array>
+												<real>703.6484375</real>
+												<real>56.796867370605469</real>
+											</array>
+											<array>
+												<real>685.6484375</real>
+												<real>51.796882629394531</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>960</real>
+												<real>0.0</real>
+											</array>
+											<array>
+												<real>685.6484375</real>
+												<real>51.796882629394531</real>
+											</array>
+											<array>
+												<real>658.6484375</real>
+												<real>56.796867370605469</real>
+											</array>
+											<array>
+												<real>645.6484375</real>
+												<real>50.796882629394531</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>960</real>
+												<real>0.0</real>
+											</array>
+											<array>
+												<real>645.6484375</real>
+												<real>50.796882629394531</real>
+											</array>
+											<array>
+												<real>602.6484375</real>
+												<real>49.796882629394531</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>602.6484375</real>
+												<real>49.796882629394531</real>
+											</array>
+											<array>
+												<real>79.6484375</real>
+												<real>48.796882629394531</real>
+											</array>
+											<array>
+												<real>0.64844512939453125</real>
+												<real>47.796882629394531</real>
 											</array>
 											<array>
 												<real>0.0</real>
+												<real>0.0</real>
+											</array>
+											<array>
+												<real>960</real>
 												<real>0.0</real>
 											</array>
 										</array>
@@ -995,6 +1107,8 @@
 										<array/>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
